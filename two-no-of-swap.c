@@ -2,8 +2,10 @@
 
 int main(){
     int a,b,c;
-    printf("enter any two number"); 
-    scanf("%d,%d",&a,&b);
+    printf("enter any number"); 
+    scanf("%d",&a);
+    printf("enter second number"); 
+    scanf("%d",&b);
     c=a;
     a=b;
     b=c;
