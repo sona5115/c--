@@ -6,6 +6,8 @@ int main(){
     scanf("%d",&a);
     printf("enter second number"); 
     scanf("%d",&b);
+    printf("enter second number"); 
+    scanf("%d",&b);
     c=a;
     a=b;
     b=c;
