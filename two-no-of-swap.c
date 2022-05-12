@@ -2,9 +2,9 @@
 
 int main(){
     int a,b,c;
-    printf("enter any number"); 
+    printf("enter the value of a: "); 
     scanf("%d",&a);
-    printf("enter second number"); 
+    printf("enter the value of b: "); 
     scanf("%d",&b);
     c=a;
     a=b;
